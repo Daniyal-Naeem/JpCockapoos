@@ -61,7 +61,7 @@ const UserRegisterForm = ({navigation, selected}) => {
       FULL_NAME: firstname,lastname,
       USERNAME: username,
       ENCRYPTED_PWD: password,confirmpassword,
-      numberofpets: numberofpets,
+      numberofpets: 2,
       petname: petname,
       pettype:pettype,
       IS_ACTIVE: isFixed,
